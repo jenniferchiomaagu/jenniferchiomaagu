@@ -1,9 +1,9 @@
 # Hey, I'm Jennifer Agu 👋
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Portfolio](https://shields.io)](https://github.io)
-[![Email](https://shields.io)](jenniferagu.aj@gmail.com)
-[![SNA Author](https://shields.io)](https://sustainabilitynewsafrica.com)
+![LinkedIn](https://shields.io)
+![Portfolio](https://shields.io)
+![Email](https://shields.io)
+![SNA Author](https://shields.io)
 
 Biotechnologist & Clinical Data Curator. I build and audit data-driven pipelines that cross-verify biological safety and regulatory compliance — structural analysis, GxP-locked metrics, and environmental impact assessments, all grounded in empirical data models.
 
