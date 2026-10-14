@@ -3,7 +3,7 @@
 [![LinkedIn](https://shields.io)](https://linkedin.com)
 [![SNA Author](https://shields.io)](https://sustainabilitynewsafrica.com)
 [![Portfolio](https://shields.io)](https://github.io)
-[![Email](https://shields.io)](mailto:your-email@domain.com)
+[![Email](https://shields.io)](jenniferagu.aj@gmail.com)
 
 Biotechnologist & Clinical Data Curator. I build and audit data-driven pipelines that cross-verify biological safety and regulatory compliance — structural analysis, GxP-locked metrics, and environmental impact assessments, all grounded in empirical data models.
 
