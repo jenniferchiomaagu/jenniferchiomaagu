@@ -2,6 +2,13 @@
 
 [LinkedIn](https://linkedin.com) | [Sustainability News Africa Author Profile](https://sustainabilitynewsafrica.com) | [Portfolio](https://github.io) | [Email](mailto:your-email@domain.com)
 
+<a href="https://linkedin.com" target="_blank"><img src="https://shields.io" alt="LinkedIn" /></a>
+<a href="https://github.io" target="_blank"><img src="https://shields.io" alt="Portfolio" /></a>
+<a href="mailto:your-email@domain.com"><img src="https://shields.io" alt="Email" /></a>
+<a href="https://sustainabilitynewsafrica.com" target="_blank"><img src="https://shields.io" alt="SNA Author" /></a>
+
+<br/><br/>
+
 Biotechnologist & Clinical Data Curator. I build and audit data-driven projects that cross-check biosafety and regulatory compliance.
 
 ---
