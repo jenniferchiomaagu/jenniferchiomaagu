@@ -1,6 +1,4 @@
 # Hey, I'm Jennifer Agu 👋
-[LinkedIn](https://linkedin.com) | [Sustainability News Africa Author Profile (https://www.sustainabilitynewsafrica.com/african-impact-authors/authors/jennifer-agu) | [Portfolio](https://github.io) | [Email](mailto:jenniferagu.aj@gmail.com)
-
 
 Biotechnologist & Clinical Data Curator. I build and audit data-driven projects that cross-check biosafety and regulatory compliance.
 
