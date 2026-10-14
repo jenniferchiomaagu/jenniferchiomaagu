@@ -1,27 +1,21 @@
 # Hey, I'm Jennifer Agu 👋
 
-<img src="https://shields.io" alt="LinkedIn" />
-<img src="https://shields.io" alt="Portfolio" />
-<img src="https://shields.io" alt="Email" />
-<img src="https://shields.io" alt="SNA Author" />
 
-<br/><br/>
-
-Biotechnologist & Clinical Data Curator. I build and audit data-driven pipelines that cross-verify biological safety and regulatory compliance — structural analysis, GxP-locked metrics, and environmental impact assessments, all grounded in empirical data models.
+Biotechnologist & Clinical Data Curator. I build and audit data-driven projects that cross-check biosafety and regulatory compliance.
 
 ---
 
 ## 🧪 Frameworks & Methods
 
 *   **[Cancer-Metabolism-and-Physical-Activity](https://github.com)** — content-addressed systematic audit engine evaluating how systemic physiological activity status down-regulates oncological metabolic pathways. Normalizing multi-study clinical parameters under strict ICH-GCP E6(R2) data monitoring standards.
-*   **[Sustainable-Fashion-EIA-Project](#)** — a solo Cradle-to-Gate Life Cycle Assessment (LCA) tracking microbial cellulose synthesis (*Acetobacter xylinum*) against traditional crop footprints, benchmarked against UK EPR frameworks and NESREA regulations.
+*   **[Sustainable-Fashion-EIA-Project](#)** — Independent Cradle-to-Gate Life Cycle Assessment (LCA) tracking microbial cellulose synthesis (*Acetobacter xylinum*) against traditional crop footprints, benchmarked against UK EPR frameworks and NESREA regulations.
 
 ---
 
 ## 📊 Curation Pipelines & Analytics
 
-*   **Biomedical Data Wrangling:** Deploying offline Anaconda Python (`pandas` / `numpy`) infrastructure to clean, parse, and handle messy biological and epidemiological datasets.
-*   **Interactive Visual Compliance:** Structuring executive-level, interactive dashboards in Microsoft Power BI Desktop to visually isolate industrial bio-safety risks and topsoil contamination trends.
+*   **Biomedical Data Wrangling:** Deploying Anaconda Python (`pandas` / `numpy`) infrastructure to clean, parse, and handle  biological and epidemiological datasets.
+*   **Interactive Visual Compliance:** Structuring executive-level, interactive dashboards in Microsoft Power BI Desktop to visually isolate industrial biosafety risks and topsoil contamination trends.
 
 ---
 
