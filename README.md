@@ -1,12 +1,6 @@
 # Hey, I'm Jennifer Agu 👋
 
-[LinkedIn](https://linkedin.com) | [Sustainability News Africa Author Profile](https://sustainabilitynewsafrica.com) | [Portfolio](https://github.io) | [Email](mailto:your-email@domain.com)
-
-
-<a href="https://linkedin.com" target="_blank"><img src="https://shields.io" alt="LinkedIn" /></a>
-<a href="https://github.io" target="_blank"><img src="https://shields.io" alt="Portfolio" /></a>
-<a href="mailto:your-email@domain.com"><img src="https://shields.io" alt="Email" /></a>
-<a href="https://www.sustainabilitynewsafrica.com/african-impact-authors/authors/jennifer-agu" target="_blank"><img src="https://shields.io" alt="SNA Author" /></a>
+[LinkedIn](https://linkedin.com) | [Sustainability News Africa Author Profile](https://www.sustainabilitynewsafrica.com/african-impact-authors/authors/jennifer-agu) | [Portfolio](https://github.io) | [Email](mailto:jenniferagu.aj@gmail.com)
 
 <br/><br/>
 
