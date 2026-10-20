@@ -7,8 +7,8 @@ As a Biotechnology MSc researcher, my work focuses on the intersection of modern
 ## 🧪 Projects
 
 *   **[Cancer-Metabolism-and-Physical-Activity](https://github.com)** — Computational biology project exploring the emerging field of exercise oncology. This project focuses on how different forms of physical activity influence cancer metabolism.
-*   **[Biofilm-Formation-and-Antibiotic-Resistance-Pattern-of-*Shigella-spp*-and-*Salmonella-spp*-Isolated-from-Ready-To-Eat-*Rhynchophorus-phoenicis*-In-Edo-And-Delta-States-of-Nigeria —
-*   **[Genetically-Modified-Organisms-and-World-Opinion]** — Report dealing with the controversy concerning applications of genetic modification, public opinion and perception and politics involved in the implementation of genetic modification. Also reviews opinions which are currently debated in the food biotechnology sector regarding human health and ecology.
+*   **[Biofilm-Formation-and-Antibiotic-Resistance-Pattern-of-*Shigella-spp*-and-*Salmonella-spp*-Isolated-from-Ready-To-Eat-*Rhynchophorus-phoenicis*-In-Edo-And-Delta-States-of-Nigeria](LINK)** — Food microbiology project aimed at determining antibiotic susceptibility pattern of *Shigella* and *Salmonella spp* isolated from ready-to-eat *Rhyncophorus phoenicis* and ascertaining the biofilm formation capability of the isolates.
+*   **[Genetically-Modified-Organisms-and-World-Opinion](LINK)** — Report dealing with the controversy concerning applications of genetic modification, public opinion and perception and politics involved in the implementation of genetic modification. Also reviews opinions which are currently debated in the food biotechnology sector regarding human health and ecology.
 
 ## 🧪 Forthcoming Projects 
 *   **[Sustainable-Fashion-EIA-Project](#)** — Independent Cradle-to-Gate Life Cycle Assessment (LCA) tracking microbial cellulose synthesis (*Acetobacter xylinum*) against traditional crop footprints, framed against UK EPR frameworks and NESREA regulations.
