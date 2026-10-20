@@ -28,8 +28,8 @@ Biotechnologist & Clinical Data Curator. I build and audit data-driven projects 
 
 ## 🎓 Education
 
-*   **MS, Biotechnology** — Loughborough University
-*   **BS, Microbiology** — Benson Idahosa University 
+*   **MSc Biotechnology** — Loughborough University
+*   **BSc Microbiology** — Benson Idahosa University 
 <!--
 **jenniferchiomaagu/jenniferchiomaagu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
