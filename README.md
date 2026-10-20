@@ -23,7 +23,7 @@ Biotechnologist & Clinical Data Curator. I build and audit data-driven projects 
 ## 📑 Publications
 
 *   **[A Review of GMO Perception and Regulation in Nigeria](https://sustainabilitynewsafrica.com)** — *Sustainability News Africa (2026).* Audited the operational disconnect between national biosafety policies and public acceptance of GMOs. Identified critical legislative escape clauses within the NBMA Act 2015, detailing the 20-year transition loop into deregulated environmental releases.
-*    **[A Review of GMO Perception and Regulation in Nigeria](https://blog.lboro.ac.uk/sustainability/2024/04/16/fashion-identity-and-sustainability/)
+*    **[Fashion, Identity and Sustainability](https://blog.lboro.ac.uk/sustainability/2024/04/16/fashion-identity-and-sustainability/)
 
 ---
 
