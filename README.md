@@ -1,4 +1,4 @@
-# Hey, I'm Jennifer Agu 👋
+# Hiya! I'm Jennifer Agu 👋
 
 Biotechnologist & Clinical Data Curator. I build and audit data-driven projects that cross-check biosafety and regulatory compliance.
 
