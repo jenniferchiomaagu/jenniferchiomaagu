@@ -7,9 +7,10 @@ Biotechnologist & Clinical Data Curator. I build and audit data-driven projects 
 ## 🧪 Projects
 
 *   **[Cancer-Metabolism-and-Physical-Activity](https://github.com)** — content-addressed systematic audit engine evaluating how systemic physiological activity status down-regulates oncological metabolic pathways. Normalizing multi-study clinical parameters under strict ICH-GCP E6(R2) data monitoring standards.
-*   **[Genetically-Modified-Organisms-and-World-Opinion] —
-*   **[Sustainable-Fashion-EIA-Project](#)** — Independent Cradle-to-Gate Life Cycle Assessment (LCA) tracking microbial cellulose synthesis (*Acetobacter xylinum*) against traditional crop footprints, benchmarked against UK EPR frameworks and NESREA regulations.
+*   **[Genetically-Modified-Organisms-and-World-Opinion]** — Report dealing with the controversy concerning applications of genetic modification, public opinion and perception and politics involved in the implementation of genetic modification. Also reviews opinions which are currently debated in the food biotechnology sector regarding human health and ecology.
 
+## 🧪 Forthcoming Projects 
+*   **[Sustainable-Fashion-EIA-Project](#)** — Independent Cradle-to-Gate Life Cycle Assessment (LCA) tracking microbial cellulose synthesis (*Acetobacter xylinum*) against traditional crop footprints, framed against UK EPR frameworks and NESREA regulations.
 ---
 
 ## 📊 Curation Pipelines & Analytics
