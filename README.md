@@ -6,7 +6,7 @@ As a Biotechnology MSc researcher, my work focuses on the intersection of modern
 
 ## 🧪 Projects
 
-*   **[Cancer-Metabolism-and-Physical-Activity](https://github.com)** — content-addressed systematic audit engine evaluating how systemic physiological activity status down-regulates oncological metabolic pathways. Normalizing multi-study clinical parameters under strict ICH-GCP E6(R2) data monitoring standards.
+*   **[Cancer-Metabolism-and-Physical-Activity](https://github.com)** — 
 *   **[Genetically-Modified-Organisms-and-World-Opinion]** — Report dealing with the controversy concerning applications of genetic modification, public opinion and perception and politics involved in the implementation of genetic modification. Also reviews opinions which are currently debated in the food biotechnology sector regarding human health and ecology.
 
 ## 🧪 Forthcoming Projects 
