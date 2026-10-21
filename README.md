@@ -6,7 +6,7 @@ As a Biotechnology MSc researcher, my work focuses on the intersection of modern
 
 ## 🧪 Projects
 
-*   **[Cancer-Metabolism-and-Physical-Activity](https://github.com)** — Computational biology project exploring the emerging field of exercise oncology. This project focuses on how different forms of physical activity influence cancer metabolism.
+*   **[Cancer-Metabolism-and-Physical-Activity](https://github.com/jenniferchiomaagu/A-Study-on-The-Correlation-Between-Cancer-Metabolism-and-Physical-Activity)** — Computational biology project exploring the emerging field of exercise oncology. This project focuses on how different forms of physical activity influence cancer metabolism.
 *   **[Biofilm-Formation-and-Antibiotic-Resistance-Pattern-of-*Shigella-spp*-and-*Salmonella-spp*-Isolated-from-Ready-To-Eat-*Rhynchophorus-phoenicis*-In-Edo-And-Delta-States-of-Nigeria](LINK)** — Food microbiology project aimed at determining antibiotic susceptibility pattern of *Shigella* and *Salmonella spp* isolated from ready-to-eat *Rhyncophorus phoenicis* and ascertaining the biofilm formation capability of the isolates.
 *   **[Genetically-Modified-Organisms-and-World-Opinion](README.md)** — Report dealing with the controversy concerning applications of genetic modification, public opinion and perception and politics involved in the implementation of genetic modification. Also reviews opinions which are currently debated in the food biotechnology sector regarding human health and ecology.
 
