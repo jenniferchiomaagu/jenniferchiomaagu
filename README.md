@@ -12,6 +12,8 @@ As a Biotechnology MSc researcher, my work focuses on the intersection of modern
 
   ### 📂 Project Documents
 * [👉 Click here to view and download the full GMO Research PDF](https://github.com/jenniferchiomaagu/Genetically-Modified-Organisms-and-World-Opinion/blob/main/Genetically%20Modified%20Organisms%20and%20World%20Opinion.pdf)
+* [👉 Click here to view and download Biofilm Formation and Antibiotic Resistance Pattern PDF](LINK)
+
 
 ## 🧪 Forthcoming Projects 
 *   **[Sustainable-Fashion-EIA-Project](#)** — Independent Cradle-to-Gate Life Cycle Assessment (LCA) tracking microbial cellulose synthesis (*Acetobacter xylinum*) against traditional crop footprints, framed against UK EPR frameworks and NESREA regulations.
