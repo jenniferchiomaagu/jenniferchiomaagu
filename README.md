@@ -11,7 +11,7 @@ As a Biotechnology MSc researcher, my work focuses on the intersection of modern
 *   **[Genetically-Modified-Organisms-and-World-Opinion](README.md)** — Report dealing with the controversy concerning applications of genetic modification, public opinion and perception and politics involved in the implementation of genetic modification. Also reviews opinions which are currently debated in the food biotechnology sector regarding human health and ecology.
 
   ### 📂 Project Documents
-* [👉 Click here to view and download the full GMO Research PDF]([Genetically-Modified-Organisms-and-World-Opinion.pdf](https://github.com/jenniferchiomaagu/Genetically-Modified-Organisms-and-World-Opinion/blob/main/Genetically%20Modified%20Organisms%20and%20World%20Opinion.pdf))
+* [👉 Click here to view and download the full GMO Research PDF]([Genetically-Modified-Organisms-and-World-Opinion.pdf](https://github.com/jenniferchiomaagu/Genetically-Modified-Organisms-and-World-Opinion/blob/main/Genetically%20Modified%20Organisms%20and%20World%20Opinion.pdf)
 
 ## 🧪 Forthcoming Projects 
 *   **[Sustainable-Fashion-EIA-Project](#)** — Independent Cradle-to-Gate Life Cycle Assessment (LCA) tracking microbial cellulose synthesis (*Acetobacter xylinum*) against traditional crop footprints, framed against UK EPR frameworks and NESREA regulations.
