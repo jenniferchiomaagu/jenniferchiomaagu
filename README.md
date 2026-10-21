@@ -2,6 +2,9 @@
 
 As a Biotechnology MSc researcher, my work focuses on the intersection of modern industrial development, circular economy, and environmental justice. My published analysis for Loughborough University explores the socio-environmental impact of textile waste imports in Nigeria and advocates for circular manufacturing frameworks.
 
+### 📂 Project Documents
+* [👉 Click here to view and download the full Research PDF](Genetically-Modified-Organisms-and-World-Opinion.pdf)
+
 ---
 
 ## 🧪 Projects
