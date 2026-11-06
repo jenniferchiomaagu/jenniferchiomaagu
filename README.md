@@ -29,6 +29,7 @@ As a Biotechnologist, my work focuses on the intersection of modern development,
 
 *   **[A Review of GMO Perception and Regulation in Nigeria](https://www.sustainabilitynewsafrica.com/articles/a-review-of-gmo-perception-and-regulation-in-nigeria)** — *Sustainability News Africa (2026).* Audited the operational disconnect between national biosafety policies and public acceptance of GMOs. Identified critical legislative escape clauses within the NBMA Act 2015, detailing the 20-year transition loop into deregulated environmental releases.
 *    **[Fashion, Identity and Sustainability](https://blog.lboro.ac.uk/sustainability/2024/04/16/fashion-identity-and-sustainability/)** — *Loughborough University (2024).* Written as a Sustainability Ambassador, this publication critiqued  the environmental toll of linear textile consumption. It also suggested ways to mitigate global waste and support community sustainability.
+*    **[FutureCasting Workshop by LU Arts & Studio Hyte} (https://jenchioma.substack.com/p/futurecasting-workshop-by-lu-arts)**   
 
 ---
 
