@@ -4,7 +4,7 @@ As a Biotechnologist, my work focuses on the intersection of modern development,
 ---
 
 ## 👩🏿‍🔬 Features 
-*  **[Tajdeed] (https://thetajdeed.substack.com/p/jennifer-agu-wants-the-world-to-see) **"Jennifer Agu Wants the World to See Africa as a Cradle of Innovation"* — Spotlighted for bridging environmental data gaps and translating biosafety legislation into accessible sustainability research.
+*  **[Tajdeed]** (https://thetajdeed.substack.com/p/jennifer-agu-wants-the-world-to-see) **"Jennifer Agu Wants the World to See Africa as a Cradle of Innovation"* — Spotlighted for bridging environmental data gaps and translating biosafety legislation into accessible sustainability research.
  
 
 ## 🧪 Projects
