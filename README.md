@@ -5,7 +5,8 @@ As a Biotechnologist, my work focuses on the intersection of modern development,
 
 ## 👩🏿‍🔬 Features 
 *  **[Tajdeed] (https://thetajdeed.substack.com/p/jennifer-agu-wants-the-world-to-see)
-## 🧪 Projects
+## 
+🧪 Projects
 
 *   **[Cancer-Metabolism-and-Physical-Activity](https://github.com/jenniferchiomaagu/A-Study-on-The-Correlation-Between-Cancer-Metabolism-and-Physical-Activity)** — Computational biology project exploring the emerging field of exercise oncology. This project focuses on how different forms of physical activity influence cancer metabolism.
 *   **[Biofilm-Formation-and-Antibiotic-Resistance-Pattern-of-*Shigella-spp*-and-*Salmonella-spp*-Isolated-from-Ready-To-Eat-*Rhynchophorus-phoenicis*-In-Edo-And-Delta-States-of-Nigeria](LINK)** — Food microbiology project aimed at determining antibiotic susceptibility pattern of *Shigella* and *Salmonella spp* isolated from ready-to-eat *Rhyncophorus phoenicis* and ascertaining the biofilm formation capability of the isolates.
