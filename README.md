@@ -1,4 +1,4 @@
-## Hiya! I'm Jennifer Agu 
+## Hiya! I'm Jennifer Agu 👋🏾 
 
 ---
 
