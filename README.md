@@ -1,4 +1,4 @@
-Hiya! I'm Jennifer Agu 👋
+##Hiya! I'm Jennifer Agu 👋##
 
 As a Biotechnologist, my work focuses on the intersection of modern development, circular economy, and environmental justice. My published analysis for Loughborough University explores the socio-environmental impact of textile waste imports in Nigeria and advocates for circular economy frameworks.
 ---
