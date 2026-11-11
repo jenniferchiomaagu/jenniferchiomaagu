@@ -4,7 +4,7 @@ As a Biotechnologist, my work focuses on the intersection of modern development,
 ---
 
 ## 👩🏿‍🔬 Features 
-*  **[Tajdeed] (https://thetajdeed.substack.com/p/jennifer-agu-wants-the-world-to-see)
+*  **[Tajdeed] (https://thetajdeed.substack.com/p/jennifer-agu-wants-the-world-to-see) — 
 
 ## 🧪 Projects
 
