@@ -5,7 +5,7 @@
 As a Biotechnologist, my work focuses on the intersection of modern development, circular economy, and environmental justice. My published analysis for Loughborough University explores the socio-environmental impact of textile waste imports in Nigeria and advocates for circular economy frameworks.
 
 ## 👩🏿‍🔬 Features 
-*  **[Tajdeed]** (https://thetajdeed.substack.com/p/jennifer-agu-wants-the-world-to-see) **"Jennifer Agu Wants the World to See Africa as a Cradle of Innovation"* — Spotlighted for bridging environmental data gaps and translating biosafety legislation into accessible sustainability research.
+*  **[Tajdeed]** (https://thetajdeed.substack.com/p/jennifer-agu-wants-the-world-to-see) **"Jennifer Agu Wants the World to See Africa as a Cradle of Innovation"* — Spotlighted for bridging data gaps in sustainability research and translating biosafety legislation into accessible sustainability research.
  
 
 ## 🧪 Projects
