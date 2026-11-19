@@ -8,11 +8,11 @@ My background is in **Microbiology and Biotechnology**, and I've worked across r
 
 I'm especially interested in:
 
-- African food and agricultural systems
-- Environmental sustainability and circular economy
+- Sustainable food and agricultural systems
+- Environmental sustainability
 - Biotechnology and biosafety
-- Science and sustainability communication
-- Environmental data and analysis
+- Science communication
+- Agri-tech and agribusiness
 
 ## Features 
 * **[Tajdeed] — “Jennifer Agu Wants the World to See Africa as a Cradle of Innovation”**
@@ -21,13 +21,13 @@ A profile about my work in African sustainability journalism, including my writi
 
 ## Projects
 
-## Cancer Metabolism and Physical Activity
+### Cancer Metabolism and Physical Activity
 My MSc computational biology project looking at the relationship between physical activity and cancer metabolism.
 
-## Food Microbiology and Antibiotic Resistance
+### Food Microbiology and Antibiotic Resistance
 Research into *Shigella* and *Salmonella* isolated from ready-to-eat food, including antibiotic susceptibility and biofilm formation.
 
-## GMOs and World Opinion
+### GMOs and World Opinion
 A review of GMO regulation, public perception and some of the debates around food biotechnology, health and the environment.
 
 ## Project Documents
