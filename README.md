@@ -2,7 +2,7 @@
 
 # Hi, I'm Jennifer Agu
 
-I am a biotechnologist interested in **science, sustainability and environmental issues**, particularly in an African context.
+I am a biotechnologist interested in **life sciences, environmental sustainability and environmental issues**.
 
 My background is in **Microbiology and Biotechnology**, and I have worked across research, sustainability and HSE. 
 
