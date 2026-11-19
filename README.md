@@ -23,7 +23,7 @@ A profile about my work in African sustainability journalism, including my writi
 
 ## Projects
 
-### Cancer Metabolism and Physical Activity
+# Cancer Metabolism and Physical Activity
 My MSc computational biology project looking at the relationship between physical activity and cancer metabolism.
 
 ### Food Microbiology and Antibiotic Resistance
