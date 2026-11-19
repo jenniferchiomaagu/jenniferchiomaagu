@@ -1,34 +1,38 @@
-## Hiya! I'm Jennifer Agu 👋🏾 
 
----
 
-I’m a biotechnologist interested in sustainability, environmental issues and how science affects the way we live and produce food. I’m particularly interested in African environmental and agricultural issues, and I enjoy turning technical research and policy into writing that people can actually understand.
+# Hi, I'm Jennifer Agu
+
+I'm a biotechnologist interested in **science, sustainability and environmental issues**, particularly in an African context.
+
+My background is in **Microbiology and Biotechnology**, and I've worked across research, sustainability and HSE. More recently, I've been writing about environmental and agricultural issues in Nigeria and learning more about how science, policy and sustainability connect.
+
+I'm especially interested in:
+
+- African food and agricultural systems
+- Environmental sustainability and circular economy
+- Biotechnology and biosafety
+- Science and sustainability communication
+- Environmental data and analysis
 
 ## 👩🏿‍🔬 Features 
 * **[Tajdeed] — “Jennifer Agu Wants the World to See Africa as a Cradle of Innovation”**
 A profile about my work in African sustainability journalism, including my writing on biosafety, agriculture and environmental issues.
 *  Link : https://thetajdeed.substack.com/p/jennifer-agu-wants-the-world-to-see
-## 🧪 Pro
 
-*   **[Cancer-Metabolism-and-Physical-Activity](https://github.com/jenniferchiomaagu/A-Study-on-The-Correlation-Between-Cancer-Metabolism-and-Physical-Activity)** — Computational biology project exploring the emerging field of exercise oncology. This project focuses on how different forms of physical activity influence cancer metabolism.
-*   **[Biofilm-Formation-and-Antibiotic-Resistance-Pattern-of-*Shigella-spp*-and-*Salmonella-spp*-Isolated-from-Ready-To-Eat-*Rhynchophorus-phoenicis*-In-Edo-And-Delta-States-of-Nigeria](LINK)** — Food microbiology project aimed at determining antibiotic susceptibility pattern of *Shigella* and *Salmonella spp* isolated from ready-to-eat *Rhyncophorus phoenicis* and ascertaining the biofilm formation capability of the isolates.
-*   **[Genetically-Modified-Organisms-and-World-Opinion](README.md)** — Report dealing with the controversy concerning applications of genetic modification, public opinion and perception and politics involved in the implementation of genetic modification. Also reviews opinions which are currently debated in the food biotechnology sector regarding human health and ecology.
+## Projects
+
+### Cancer Metabolism and Physical Activity
+My MSc computational biology project looking at the relationship between physical activity and cancer metabolism.
+
+### Food Microbiology and Antibiotic Resistance
+Research into *Shigella* and *Salmonella* isolated from ready-to-eat food, including antibiotic susceptibility and biofilm formation.
+
+### GMOs and World Opinion
+A review of GMO regulation, public perception and some of the debates around food biotechnology, health and the environment.
 
 ## 📂 Project Documents
 * [👉 Click here to view and download the full GMO Research PDF](https://github.com/jenniferchiomaagu/Genetically-Modified-Organisms-and-World-Opinion/blob/main/Genetically%20Modified%20Organisms%20and%20World%20Opinion.pdf)
 * [👉 Click here to view and download Biofilm Formation and Antibiotic Resistance Pattern PDF](LINK)
-
-
-## 🧪 Forthcoming Projects 
-*   **[Sustainable-Fashion-EIA-Project](#)** — Independent Cradle-to-Gate Life Cycle Assessment (LCA) tracking microbial cellulose synthesis (*Acetobacter xylinum*) against traditional crop footprints, framed against UK EPR frameworks and NESREA regulations.
----
-
-## 📊 Curation Pipelines & Analytics
-
-*   **Biomedical Data Wrangling:** Deploying Anaconda Python (`pandas` / `numpy`) infrastructure to clean, parse, and handle  biological and epidemiological datasets.
-*   **Interactive Visual Compliance:** Structuring executive-level, interactive dashboards in Microsoft Power BI Desktop to visually isolate industrial biosafety risks and topsoil contamination trends.
-
----
 
 ## 📑 Publications
 
@@ -38,10 +42,28 @@ A profile about my work in African sustainability journalism, including my writi
 
 ---
 
-## 🎓 Education
+## Writing
 
-*   **MSc Biotechnology** — Loughborough University
-*   **BSc Microbiology** — Benson Idahosa University 
+I currently write about sustainability and environmental issues in Africa, with a particular interest in agriculture, food systems, biosafety and environmental policy.
+
+I've written for **Sustainability News Africa** and was featured by **Tajdeed** in a profile about my work in African sustainability journalism.
+
+## What I'm learning
+
+I'm currently developing my skills in:
+
+- Python, pandas and NumPy
+- Power BI
+- Environmental and sustainability data
+- Scientific and technical writing
+
+## Education
+
+**MSc Biotechnology** — Loughborough University  
+**BSc Microbiology** — Benson Idahosa University
+
+I'm interested in work that brings together **science, sustainability and accessible communication of environmental issues**.
+
 <!--
 **jenniferchiomaagu/jenniferchiomaagu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
