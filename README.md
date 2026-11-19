@@ -30,7 +30,7 @@ My MSc computational biology project looking at the relationship between physica
 Research into *Shigella* and *Salmonella* isolated from ready-to-eat food, including antibiotic susceptibility and biofilm formation.
 
 ### GMOs and World Opinion
-A review of GMO regulation, public perception and some of the debates around food biotechnology, health and the environment.
+A review of GMOs in Nigeria, looking at public perception, regulation, food biotechnology and some of the arguments around health and environmental impacts.
 
 ## Project Documents
 
@@ -45,27 +45,20 @@ A review of GMO regulation, public perception and some of the debates around foo
 
 ---
 
-## Writing
+## Current Learning Track
 
-I currently write about sustainability and environmental issues in Africa, with a particular interest in agriculture, food systems, biosafety and environmental policy.
-
-I've written for **Sustainability News Africa** and was featured by **Tajdeed** in a profile about my work in African sustainability journalism.
-
-## What I'm learning
-
-I'm currently developing my skills in:
-
-- Python, pandas and NumPy
-- Power BI
-- Environmental and sustainability data
-- Scientific and technical writing
+- **EHS data analytics** — incident trends, environmental indicators and Power BI dashboards 
+- **Agricultural and food systems** — sustainable agriculture, food security and value chains
+- **Environmental monitoring** — soil, water and sediment sampling
+- **Food safety** — HACCP, GMP and food microbiology
+- **Sustainability and ESG** — environmental management, sustainable supply chains and impact reporting
 
 ## Education
 
 **MSc Biotechnology** — Loughborough University  
 **BSc Microbiology** — Benson Idahosa University
 
-I'm interested in work that brings together **science, sustainability and accessible communication of environmental issues**.
+I am interested in work that brings together **science, sustainability and accessible communication of environmental issues**.
 
 <!--
 **jenniferchiomaagu/jenniferchiomaagu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
