@@ -5,10 +5,10 @@
 I’m a biotechnologist interested in sustainability, environmental issues and how science affects the way we live and produce food. I’m particularly interested in African environmental and agricultural issues, and I enjoy turning technical research and policy into writing that people can actually understand.
 
 ## 👩🏿‍🔬 Features 
-* **[Tajdeed]** — “Jennifer Agu Wants the World to See Africa as a Cradle of Innovation”
+* **[Tajdeed] — “Jennifer Agu Wants the World to See Africa as a Cradle of Innovation”**
 A profile about my work in African sustainability journalism, including my writing on biosafety, agriculture and environmental issues.
-*  (https://thetajdeed.substack.com/p/jennifer-agu-wants-the-world-to-see) 
-## 🧪 Projects
+*  Link : https://thetajdeed.substack.com/p/jennifer-agu-wants-the-world-to-see
+## 🧪 Pro
 
 *   **[Cancer-Metabolism-and-Physical-Activity](https://github.com/jenniferchiomaagu/A-Study-on-The-Correlation-Between-Cancer-Metabolism-and-Physical-Activity)** — Computational biology project exploring the emerging field of exercise oncology. This project focuses on how different forms of physical activity influence cancer metabolism.
 *   **[Biofilm-Formation-and-Antibiotic-Resistance-Pattern-of-*Shigella-spp*-and-*Salmonella-spp*-Isolated-from-Ready-To-Eat-*Rhynchophorus-phoenicis*-In-Edo-And-Delta-States-of-Nigeria](LINK)** — Food microbiology project aimed at determining antibiotic susceptibility pattern of *Shigella* and *Salmonella spp* isolated from ready-to-eat *Rhyncophorus phoenicis* and ascertaining the biofilm formation capability of the isolates.
