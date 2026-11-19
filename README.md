@@ -4,9 +4,11 @@
 
 I'm a biotechnologist interested in **science, sustainability and environmental issues**, particularly in an African context.
 
-My background is in **Microbiology and Biotechnology**, and I've worked across research, sustainability and HSE. More recently, I've been writing about environmental and agricultural issues in Nigeria and learning more about how science, policy and sustainability connect.
+My background is in **Microbiology and Biotechnology**, and I have worked across research, sustainability and HSE. 
 
-I'm especially interested in:
+Recently, I have been writing about environmental and agricultural issues in Nigeria and learning more about how science, policy and sustainability connect.
+
+I am especially interested in:
 
 - Sustainable food and agricultural systems
 - Environmental sustainability
